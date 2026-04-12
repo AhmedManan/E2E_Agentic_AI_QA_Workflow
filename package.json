@@ -1,0 +1,23 @@
+{
+  "name": "e2e_agentic_ai_qa_workflow",
+  "version": "1.0.0",
+  "description": "In this repository I'll perform:\r - Read User Stories automatically\r - Generate AI-powered Test Plans\r - Perform Exploratory Testing using Playwright MCP\r - Auto-generate Playwright Automation Scripts\r - Execute tests and auto-heal failures\r - Generate complete test reports\r - Commit all artifacts to GitHub automatically",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedManan/E2E_Agentic_AI_QA_Workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AhmedManan/E2E_Agentic_AI_QA_Workflow/issues"
+  },
+  "homepage": "https://github.com/AhmedManan/E2E_Agentic_AI_QA_Workflow#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
