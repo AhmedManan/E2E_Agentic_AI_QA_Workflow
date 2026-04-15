@@ -1,6 +1,8 @@
-# E2E_Agentic_AI_QA_Workflow
+# End-to-End Agentic AI QA Workflow | Autonomous QA Engineer
+An autonomous, AI-driven Quality Assurance pipeline that transforms requirements into verified code. This project leverages Agentic AI to handle the entire testing lifecycle—from analyzing user stories to auto-healing broken automation scripts.
 
 ## 🎯 Summary Of This Project
+This workflow is designed to minimize manual intervention in the SQA process. By integrating Model Context Protocol (MCP) servers and specialized AI agents, the system can "think" through testing requirements and "act" directly on the codebase and browser.
 In this repository I'll perform:
 - Read User Stories automatically
 - Generate AI-powered Test Plans
